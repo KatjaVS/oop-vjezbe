@@ -1,0 +1,4 @@
+﻿  Zad_02.cpp
+C:\Users\nadav\Downloads\OP\Vj_01\Vj_01.cpp\Zad_02\Zad_02.cpp(139,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\nadav\Downloads\OP\Vj_01\Vj_01.cpp\Zad_02\Zad_02.cpp(141,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Zad_02.vcxproj -> C:\Users\nadav\Downloads\OP\Vj_01\Vj_01.cpp\Debug\Zad_02.exe
