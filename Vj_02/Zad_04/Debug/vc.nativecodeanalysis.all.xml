@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\nadav\Downloads\OP\Vj_02\Vj_02\Zad_04\</FILEPATH>
+      <FILENAME>vector.hpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'MyVector::arr' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>MyVector::{ctor}</FUNCTION>
+    <DECORATED>??0MyVector@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MyVector::arr</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
