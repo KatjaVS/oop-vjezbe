@@ -1,0 +1,10 @@
+﻿  Zad_01-04.cpp
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(20,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(83,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(87,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(114,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(129,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(134,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Zad_01-04\h_tri.hpp(150,23): warning C4018: '<': signed/unsigned mismatch
+  Zad_01-04.vcxproj -> C:\Users\nadav\Desktop\VisualStudio\Vj_03\Vj_03\Debug\Zad_01-04.exe
