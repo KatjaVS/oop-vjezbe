@@ -1,0 +1,4 @@
+﻿  main_03.cpp
+C:\Users\nadav\Desktop\VisualStudio\Vj_05\Zad_03\main_03.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nadav\Desktop\VisualStudio\Vj_05\Zad_03\main_03.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+  Zad_03.vcxproj -> C:\Users\nadav\Desktop\VisualStudio\Vj_05\Debug\Zad_03.exe
