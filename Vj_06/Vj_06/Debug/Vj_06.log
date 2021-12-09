@@ -1,0 +1,9 @@
+﻿  HangmanController.cpp
+C:\Users\nadav\Desktop\VisualStudio\Vj_06\Vj_06\HangmanController.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+  HangmanModel.cpp
+C:\Users\nadav\Desktop\VisualStudio\Vj_06\Vj_06\HangmanModel.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nadav\Desktop\VisualStudio\Vj_06\Vj_06\HangmanModel.cpp(56,16): warning C4018: '<': signed/unsigned mismatch
+  HangmanView.cpp
+  main_06.cpp
+  Generating Code...
+  Vj_06.vcxproj -> C:\Users\nadav\Desktop\VisualStudio\Vj_06\Debug\Vj_06.exe
